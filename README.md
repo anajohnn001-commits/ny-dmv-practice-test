@@ -11,7 +11,7 @@ This is a free, open-source **NY DMV Practice Test** tool designed to help New Y
 
 Whether you're getting your first driver's license, renewing after a lapse, or obtaining a Real ID — this practice test covers everything you need.
 
-🔗 **Live Version:** [https://dmvappointmentny.us/ny-dmv-written-test/](https://dmvappointmentny.us/ny-dmv-written-test/)
+🔗 **Live Version:** [https://dmvappointmentny.us/ny-dmv-practice-test/](https://dmvappointmentny.us/ny-dmv-practice-test/)
 
 ---
 
@@ -51,7 +51,7 @@ Whether you're getting your first driver's license, renewing after a lapse, or o
 ## 🚀 How to Use
 
 ### Option 1 — Use the Live Website
-Visit: [https://dmvappointmentny.us/ny-dmv-written-test/](https://dmvappointmentny.us/ny-dmv-written-test/)
+Visit: [https://dmvappointmentny.us/ny-dmv-practice-test/](https://dmvappointmentny.us/ny-dmv-practice-test/)
 
 ### Option 2 — Run Locally
 ```bash
@@ -81,11 +81,10 @@ All resources available at **[dmvappointmentny.us](https://dmvappointmentny.us)*
 | Resource | Link |
 |---|---|
 | Book a NY DMV Appointment | [dmvappointmentny.us](https://dmvappointmentny.us) |
-| NY DMV Practice Test | [dmvappointmentny.us/ny-dmv-written-test/](https://dmvappointmentny.us/ny-dmv-written-test/) |
-| Real ID Requirements NY | [dmvappointmentny.us/real-id/](https://dmvappointmentny.us/real-id/) |
-| NY Road Test Guide | [dmvappointmentny.us/road-test/](https://dmvappointmentny.us/road-test/) |
-| NY DMV Office Locations | [dmvappointmentny.us/locations/](https://dmvappointmentny.us/locations/) |
-
+| NY DMV Practice Test | [dmvappointmentny.us/ny-dmv-practice-test/](https://dmvappointmentny.us/ny-dmv-practice-test/) |
+| Real ID Requirements NY | [dmvappointmentny.us/ny-dmv-real-id-appointment/](https://dmvappointmentny.us/ny-dmv-real-id-appointment/) |
+| NY Road Test Guide | [dmvappointmentny.us/ny-dmv-road-test-appointment/](https://dmvappointmentny.us/ny-dmv-road-test-appointment/) |
+| NY DMV Office Locations | [dmvappointmentny.us/ny-dmv-office-locator/](https://dmvappointmentny.us/ny-dmv-office-locator/) |
 ---
 
 ## 🤝 Contributing
